@@ -144,19 +144,21 @@ VIPS作るぞ！　おー！
 ***
 ## 【フォルダ構成】 
 ***★随時更新***  
-T 
+T  
 |-.git  
 |-.github  
 |-README.md  
 |-VIPS  
-　|-index.php  
-　|-template  
-　| |-index.html  
-　|-css  
-　| |-reset.css  
-　| |-style.css  
-　|-js  
-　　|-func.js  
+　　|-index.php  
+　　|-template  
+　　|　|-index.html  
+　　|  
+　　|-css  
+　　|　|-reset.css  
+　　|　|-style.css  
+　　|  
+　　|-js  
+　　　 |-func.js  
 
 ***
 ## 【全体的な流れ】  

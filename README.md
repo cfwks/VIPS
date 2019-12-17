@@ -158,7 +158,9 @@ T
 　　|　|-style.css  
 　　|  
 　　|-js  
-　　　 |-func.js  
+　　|- |-func.js  
+　　|  
+　　|-img
 
 ***
 ## 【全体的な流れ】  

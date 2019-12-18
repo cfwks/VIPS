@@ -32,12 +32,14 @@ function Select($sql, $host, $user, $pass, $dbName){
 function Create($sql, $host, $user, $pass, $dbName){
   $cn = Connection($host, $user, $pass, $dbName);
   if (mysqli_query($cn, $sql)) {
+    mysqli_close($cn);
     return "データベースにテーブルが作成されました。";
   }
   else {
+    mysqli_close($cn);
     return "テーブル作成に失敗しました。";
   }
-  mysqli_close($cn);
+  
 }
 
  ?>

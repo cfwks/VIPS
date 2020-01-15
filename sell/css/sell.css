@@ -1,0 +1,45 @@
+body{
+    background-image: url(../img/vips.jpg);
+    background-size:900px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+
+
+
+#input{
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:bisque;
+    padding:20px;
+}
+
+
+
+h2{
+    text-align: center;
+}
+.sell-group{
+    margin: 40px ;
+
+}
+.sell-group p{
+    margin:2px;
+}
+
+.pd{
+    width:400px;
+    height:200px
+}
+
+
+p span{
+    background-color:#ff6347;
+    padding:2px;
+    border-radius: 20%;
+    color:white;
+    font-size: small;
+}

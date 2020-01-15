@@ -1,0 +1,30 @@
+#login{
+    width:700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+}
+
+
+#input{
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:20px;
+}
+
+#submit_button{
+    margin:10px;
+    text-align: center;
+}
+
+
+#cant_send{
+    margin-top:50px;
+}
+#cant_send p{
+        font-size: small;
+}
+#cant_send a{
+    font-size: small;
+}

@@ -1,0 +1,53 @@
+#item{
+    width:700px;
+    height:400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+    border: solid;
+}
+
+#item_left{
+    float: left;
+    padding:20px;
+}
+#item p img{
+    width:300px;
+   
+}
+
+#item_con{
+    overflow: hidden;
+}
+
+#item_con button{
+    margin:10px;
+}
+
+#item_name{
+    margin:20px;
+    font-size: large;
+    font-weight: 900;
+}
+
+#item_disc{
+    text-align: center;
+}
+
+
+
+
+
+
+
+table th{
+    padding:10px;
+    background-color: cornsilk;
+}
+
+
+#back_button{
+    width:700px;
+    margin-left: auto;
+    margin-right: auto;
+}

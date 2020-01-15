@@ -1,0 +1,21 @@
+#header{
+    width:700px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+#header p img{
+    width:100px;
+    float: left;
+}
+
+#header h1{
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+#back_button{
+    padding: 10px;
+}

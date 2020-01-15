@@ -1,0 +1,34 @@
+#cart{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    padding:20px;
+}
+
+#button_buy button{
+    background-color: cornflowerblue;
+    width:250px;
+}
+
+.item{
+    width:700px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blanchedalmond;
+
+}
+.item p img{
+    width:100px;
+    float: left;
+   
+}
+
+table{
+    padding:20px;
+    overflow: hidden;
+}
+#back_button{
+    padding: 10px;
+}
+

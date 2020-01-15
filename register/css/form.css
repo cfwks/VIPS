@@ -1,0 +1,84 @@
+
+
+body{
+    background-image: url(../img/vips.jpg);
+    background-size:900px;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+}
+
+
+#top_nav{
+    width:500px;
+    margin-left:auto;
+    margin-right: auto;
+}
+#top_nav p img{
+        height:100px;
+
+}
+
+
+
+#input{
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:#faf0e6;
+    padding:20px;
+}
+
+
+h2{
+    text-align: center;
+    border-bottom: 1px solid #0074bf;
+
+}
+.form-group{
+    margin: 40px ;
+
+}
+.form-group p{
+    margin:2px;
+}
+
+
+input .input-default-half{
+    width:50px;
+}
+input.input-default{
+    width:150px;
+}
+
+p span{
+    background-color:#ff6347;
+    padding:2px;
+    border-radius: 20%;
+    color:white;
+    font-size: small;
+}
+
+.attention{
+    font-size: small;
+}
+
+
+.form-group.red{
+    background-color: burlywood;
+}
+
+
+.bottom{
+    text-align: center;
+    margin:30px;
+}
+
+.bottom  p img{
+    height:100px;
+}
+
+.bottom_nav a{
+    font-size:15px;
+    padding:20px;
+}

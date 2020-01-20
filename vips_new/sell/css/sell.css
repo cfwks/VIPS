@@ -1,0 +1,77 @@
+#content{
+    border: solid 2px;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+
+.sell-group{
+    width: 200px ;
+    margin: 20px;
+}
+.sell-group p{
+    margin:2px;
+}
+
+.pd{
+    width:400px;
+    height:200px
+}
+
+
+p span{
+    background-color:#ff6347;
+    padding:2px;
+    border-radius: 20%;
+    color:white;
+    font-size: small;
+}
+
+#btn{
+    width:150px;
+    height:10px;
+    margin-left: 70%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#btn button{
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-right:20px;
+}
+#btn button i{
+    padding: 10px;
+    color:black;
+    
+}
+
+
+#back{
+    width:100px;
+    margin:30px;
+    border:solid 2px;
+
+}
+
+
+#footer{
+    background-color: black;
+    display: flex;
+}
+
+p.footer_nav{
+    margin:30px;
+}
+p .footer_nav a{
+    color:white;
+
+}
+
+
+
+
+

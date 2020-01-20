@@ -1,0 +1,54 @@
+#content{
+    border:solid 2px;]
+    background-color: black;
+}
+
+
+#total{
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: large;
+}
+
+
+
+
+.item p img{
+    height:200px;
+    float: left;
+}
+.item{
+    overflow: hidden;
+    height:200px;
+    background-color: snow;
+    margin:20px;
+}
+
+#item_disc{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+
+#modal{
+    display: none;
+}
+
+#buy{
+    width:250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#buy a button{
+    width:200px;
+    padding:20px;
+    margin:10px;
+}
+
+
+#back{
+    margin:20px;
+}

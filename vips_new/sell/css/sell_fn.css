@@ -1,0 +1,22 @@
+#body h2{
+    margin:100px;
+}
+
+
+#content p{
+    text-align: center;
+}
+
+#back{
+    width:200px;
+    border: solid 2px;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#back a{
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,67 @@
+
+/*item部分*/
+
+#content{
+    border:solid 3px;
+    padding:20px;
+}
+
+
+#item{
+    display:flex;
+    height:500px;
+}
+
+
+
+
+
+    /*item 左側*/
+        /*写真*/
+     
+        .item p img{
+            width:300px;
+        }
+
+        /*いいね・コメントボタン*/
+        #btn{
+            display: flex;
+        }
+        .btn{
+            padding:20px;
+        }
+        .btn p img{
+            width:30px;
+        }
+
+      
+    /*item　右側*/
+    .item table th{
+        width:200px
+    }
+    .item table tr{
+        padding:30px;
+        
+    }
+
+
+
+    #buy{
+        display: flex;
+        position: relative;
+        top:400px;
+        left:40px;
+    }
+    #buy a button{
+        width:200px;
+        padding:20px;
+        margin:10px;
+    }
+
+
+    /*戻るボタン*/
+    #back{
+        position: relative;
+        top:500px;
+        left:-250px;
+    }

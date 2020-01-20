@@ -1,0 +1,12 @@
+/*共通部分*/
+#body{
+ width:70%;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+#body h2{
+    text-align: center;
+}
+
+
